@@ -3,6 +3,7 @@
 ## 项目简介 | Project Introduction
 
 这个项目主要用于研究和比较VSCode与GoLand在Go程序调试过程中的行为差异。
+
 This project is dedicated to studying and comparing the debugging behavior differences between VSCode and GoLand for Go programs.
 
 ## 主要发现 | Key Findings
@@ -20,9 +21,11 @@ This project is dedicated to studying and comparing the debugging behavior diffe
 ## 技术细节 | Technical Details
 
 此项目有助于理解不同IDE在Go程序调试实现上的差异，特别是在进程管理和信号处理方面的不同表现。
+
 This project helps understand the differences in Go program debugging implementation between IDEs, especially in terms of process management and signal handling.
 
 ## 疑问 | Questions
 
 怎样配置VSCode让它在调试时与GoLand效果一样?
+
 How to configure VSCode to achieve the same debugging behavior as GoLand?
