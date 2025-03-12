@@ -11,12 +11,6 @@
             "mode":"auto",
             "program":"${workspaceFolder}/main.go",
             "console" :"integratedTerminal",
-            "dlvFlags": [
-                "--headless=true",
-                "--api-version=2",
-                "--check-go-version=false",
-                "--only-same-user=false"
-            ],
             "showLog": true
         }
     ]
